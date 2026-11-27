@@ -1,5 +1,7 @@
 # Zwemstad · installeerbare web-app
 
+Versie 0.3: compacte donkere vormgeving geïnspireerd op Wasp, met gele accenten en zonder introductie- of promotieteksten.
+
 Eén zwemagenda voor Rotterdam, gebaseerd op de bediening van de Cineville Agenda. Gebouwd met React Native, Expo en React Native Web. Eigen naam en vormgeving; geen relatie met Cineville.
 
 **Online: https://berengels.github.io/zwemstad/**

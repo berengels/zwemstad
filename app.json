@@ -2,9 +2,9 @@
   "expo": {
     "name": "Zwemstad",
     "slug": "zwemstad",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "orientation": "portrait",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "dark",
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "nl.zwemstad.app"

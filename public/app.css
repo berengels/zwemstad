@@ -1,0 +1,5 @@
+html,body { background: #242424; color: #faf2d6; color-scheme: dark; }
+::selection { background: #f8c537; color: #1a2023; }
+:focus-visible { outline: 2px solid #f8c537; outline-offset: 2px; }
+[role="button"]:hover,[role="tab"]:hover,[role="checkbox"]:hover { filter: brightness(1.12); }
+* { scrollbar-width: thin; scrollbar-color: #5c5c54 #242424; }
