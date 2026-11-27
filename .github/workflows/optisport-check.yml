@@ -1,0 +1,27 @@
+name: Openbare Alexanderhof-bron controleren
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '22'
+      - name: Officiële openbare roosterbron testen
+        run: |
+          node --input-type=module <<'JS'
+          const origin='https://www.optisport.nl';
+          const tokenResponse=await fetch(origin+'/api/optisport/token',{headers:{'User-Agent':'Zwemstad/0.2 (public swimming timetable aggregation)'},signal:AbortSignal.timeout(20000)});
+          console.log('Openbaar tokenendpoint:',tokenResponse.status,tokenResponse.headers.get('content-type'));
+          if(!tokenResponse.ok)process.exit(1);
+          const token=(await tokenResponse.text()).trim();
+          if(!/^[A-Za-z0-9_-]{20,512}$/.test(token))throw new Error('Onverwacht tokenformaat');
+          const response=await fetch(origin+'/api/optisport/v1/schedule',{method:'POST',headers:{'Content-Type':'application/json','X-CSRF-Token':token,'User-Agent':'Zwemstad/0.2 (public swimming timetable aggregation)'},body:JSON.stringify({page:0,locationId:2123,results:3}),signal:AbortSignal.timeout(20000)});
+          console.log('Roosterendpoint:',response.status,response.headers.get('content-type'));
+          if(!response.ok)process.exit(1);
+          const data=await response.json();console.log(JSON.stringify(data));
+          JS
