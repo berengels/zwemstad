@@ -2,7 +2,9 @@
 
 Eén zwemagenda voor Rotterdam, gebaseerd op de bediening van de Cineville Agenda. Gebouwd met React Native, Expo en React Native Web. Eigen naam en vormgeving; geen relatie met Cineville.
 
-**Versie 0.2 is voorbereid voor GitHub Pages en automatische roosterverversing via GitHub Actions.**
+**Online: https://berengels.github.io/zwemstad/**
+
+GitHub Pages verzorgt de web-app; GitHub Actions controleert de bronnen vier keer per dag.
 
 Zie [DEPLOYMENT.md](DEPLOYMENT.md) voor de accountkeuze, publicatie-instellingen, kosten en resterende beperkingen.
 
@@ -46,10 +48,10 @@ Multisportcentra publiceren ook sporten op het droge. De import selecteert herke
 
 Bij een mislukte bron blijven oude gegevens met hun oorspronkelijke controletijd bewaard. Er wordt via een tijdelijk bestand atomair opgeslagen. De app bewaart lokaal alleen favorieten en een roosterreserve. Externe bronlinks openen de site van het zwembad.
 
-De Node-import en webbuild draaien in GitHub Actions. Een ophaalronde bewaart de nieuwe gegevens en publiceert de gebouwde app via GitHub Pages. De workflow wordt pas actief als de code op de standaardbranch van de repository staat.
+De Node-import en webbuild draaien in GitHub Actions. Een ophaalronde bewaart de nieuwe gegevens en publiceert de gebouwde app via GitHub Pages. De workflow staat actief op de standaardbranch `main`.
 
 ## Verificatie
 
-Lokaal getest: nieuwe data via Ververs roosters, herkenbare terugval bij een HTTP 503 op het online rooster, herstel na terugkeer van de bron en een daadwerkelijk geregistreerde service worker met offline reserve. De mobiele installatie-uitleg is op 390 × 844 gecontroleerd. De installatie op fysieke iPhone- en Androidapparaten en de geplande GitHub-keten moeten na publicatie nog worden getest.
+Lokaal getest: nieuwe data via Ververs roosters, herkenbare terugval bij een HTTP 503 op het online rooster, herstel na terugkeer van de bron en een daadwerkelijk geregistreerde service worker met offline reserve. De mobiele installatie-uitleg is op 390 × 844 gecontroleerd. Op 27 november 2026 zijn ook de echte GitHub-publicatieketen en de online filters en offline installatievoorziening gecontroleerd. Installatie op fysieke iPhone- en Androidapparaten moet nog worden getest.
 
 Bronnen: https://cineville.nl/nl-NL/filmagenda, https://www.rotterdamzwemt.nl/ en de officiële zwembadlinks in `data/pools.json`.

@@ -2,7 +2,7 @@
 
 We gebruiken GitHub Pages voor de installeerbare web-app en GitHub Actions om vier keer per dag de bronroosters te verversen. Een Cloudflare-account of eigen domeinnaam is niet nodig.
 
-De gebruiker heeft op 27 november 2026 ingestemd met openbare broncode. GitHub Free biedt Pages voor openbare repositories. De bestaande lokale GitHub-aanmelding gebruikt account `berengels`; de repositorynaam is `zwemstad`. Het verwachte Pages-adres is https://berengels.github.io/zwemstad/. Publicatie is pas geslaagd als dit adres daadwerkelijk werkt.
+De web-app staat op https://berengels.github.io/zwemstad/ en de openbare broncode op https://github.com/berengels/zwemstad. De eerste publicaties op 27 november 2026 zijn geslaagd, inclusief een nieuwe bronimport, negentien tests en de controle van de online installatievoorziening.
 
 ## Inrichting
 
