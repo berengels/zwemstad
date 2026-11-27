@@ -1,0 +1,122 @@
+[
+  {
+    "id": "zwemcentrum",
+    "name": "Zwemcentrum Rotterdam",
+    "area": "Charlois",
+    "operator": "Sportbedrijf Rotterdam",
+    "adapter": "sbr",
+    "url": "https://www.sportbedrijfrotterdam.nl/locatie/zwemcentrum-rotterdam"
+  },
+  {
+    "id": "west",
+    "name": "Sportcentrum West",
+    "area": "Delfshaven",
+    "operator": "Sportbedrijf Rotterdam",
+    "adapter": "sbr",
+    "url": "https://www.sportbedrijfrotterdam.nl/locatie/sportcentrum-west"
+  },
+  {
+    "id": "wilgenring",
+    "name": "De Wilgenring",
+    "area": "Hillegersberg-Schiebroek",
+    "operator": "Sportbedrijf Rotterdam",
+    "adapter": "sbr",
+    "url": "https://www.sportbedrijfrotterdam.nl/locatie/sportcentrum-de-wilgenring"
+  },
+  {
+    "id": "overschie",
+    "name": "Zwembad Overschie",
+    "area": "Overschie",
+    "operator": "Sportbedrijf Rotterdam",
+    "adapter": "sbr",
+    "url": "https://www.sportbedrijfrotterdam.nl/locatie/zwembad-overschie"
+  },
+  {
+    "id": "ijsselmonde",
+    "name": "Zwembad IJsselmonde",
+    "area": "IJsselmonde",
+    "operator": "Sportbedrijf Rotterdam",
+    "adapter": "sbr",
+    "url": "https://www.sportbedrijfrotterdam.nl/locatie/zwembad-ijsselmonde"
+  },
+  {
+    "id": "feijenoord",
+    "name": "Sportcentrum Feijenoord",
+    "area": "Feijenoord",
+    "operator": "Sportbedrijf Rotterdam",
+    "adapter": "sbr",
+    "url": "https://www.sportbedrijfrotterdam.nl/locatie/sportcentrum-feijenoord"
+  },
+  {
+    "id": "rozenburcht",
+    "name": "De Rozenburcht",
+    "area": "Rozenburg",
+    "operator": "Sportbedrijf Rotterdam",
+    "adapter": "sbr",
+    "url": "https://www.sportbedrijfrotterdam.nl/locatie/sportcentrum-de-rozenburcht"
+  },
+  {
+    "id": "hoogvliet",
+    "name": "Zwembad Hoogvliet",
+    "area": "Hoogvliet",
+    "operator": "Sportbedrijf Rotterdam",
+    "adapter": "sbr",
+    "url": "https://www.sportbedrijfrotterdam.nl/locatie/zwembad-hoogvliet"
+  },
+  {
+    "id": "pernis",
+    "name": "Zwembad Pernis",
+    "area": "Pernis",
+    "operator": "Sportbedrijf Rotterdam",
+    "adapter": "sbr",
+    "url": "https://www.sportbedrijfrotterdam.nl/locatie/zwembad-pernis"
+  },
+  {
+    "id": "hoek",
+    "name": "Hoekse Badje",
+    "area": "Hoek van Holland",
+    "operator": "Sportbedrijf Rotterdam",
+    "adapter": "sbr",
+    "url": "https://www.sportbedrijfrotterdam.nl/locatie/zwembad-hoek-van-holland-hoekse-badje"
+  },
+  {
+    "id": "vanmaanen",
+    "name": "Van Maanenbad",
+    "area": "Noord",
+    "operator": "Sportfondsen",
+    "adapter": "sportfondsen",
+    "url": "https://vanmaanenbad.sportfondsen.nl/tijden-tarieven/"
+  },
+  {
+    "id": "oostelijk",
+    "name": "Oostelijk Zwembad",
+    "area": "Kralingen-Crooswijk",
+    "operator": "Sportfondsen",
+    "adapter": "sportfondsen",
+    "url": "https://oostelijkzwembad.sportfondsen.nl/tijden-tarieven/"
+  },
+  {
+    "id": "oostervant",
+    "name": "Oostervant",
+    "area": "Delfshaven",
+    "operator": "Sportfondsen",
+    "adapter": "sportfondsen",
+    "url": "https://oostervant.sportfondsen.nl/tijden-tarieven-van-oostervant/"
+  },
+  {
+    "id": "zevenkamp",
+    "name": "Zevenkampse Ring",
+    "area": "Prins Alexander",
+    "operator": "Sportfondsen",
+    "adapter": "sportfondsen",
+    "url": "https://zevenkampsering.sportfondsen.nl/tijden-tarieven/"
+  },
+  {
+    "id": "alexanderhof",
+    "name": "Het Alexanderhof",
+    "area": "Prins Alexander",
+    "operator": "Optisport",
+    "adapter": "pending",
+    "url": "https://www.optisport.nl/zwembad-het-alexanderhof-rotterdam"
+  }
+]

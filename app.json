@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Zwemstad",
+    "slug": "zwemstad",
+    "version": "0.2.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "nl.zwemstad.app"
+    },
+    "android": {
+      "package": "nl.zwemstad.app"
+    },
+    "web": {
+      "bundler": "metro",
+      "name": "Zwemstad \u00b7 Rotterdam"
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
