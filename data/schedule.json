@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T08:21:24.264Z",
-  "attemptedAt": "2026-11-27T08:21:24.264Z",
+  "generatedAt": "2026-11-27T18:55:49.102Z",
+  "attemptedAt": "2026-11-27T18:55:49.102Z",
   "timezone": "Europe/Amsterdam",
   "registrySource": "https://www.rotterdamzwemt.nl/",
   "sources": [
@@ -16,7 +16,7 @@
       "poolId": "feijenoord",
       "status": "ok",
       "closedDates": [],
-      "checkedAt": "2026-11-27T08:21:24.264Z",
+      "checkedAt": "2026-11-27T18:55:49.102Z",
       "count": 78,
       "message": "Gedateerd bronrooster"
     },
@@ -39,7 +39,7 @@
         "2026-12-05",
         "2026-12-06"
       ],
-      "checkedAt": "2026-11-27T08:21:24.264Z",
+      "checkedAt": "2026-11-27T18:55:49.102Z",
       "count": 0,
       "message": "Sluitingsmeldingen voor 14 dagen in het bronrooster"
     },
@@ -62,7 +62,7 @@
         "2026-12-05",
         "2026-12-06"
       ],
-      "checkedAt": "2026-11-27T08:21:24.264Z",
+      "checkedAt": "2026-11-27T18:55:49.102Z",
       "count": 0,
       "message": "Sluitingsmeldingen voor 14 dagen in het bronrooster"
     },
@@ -70,7 +70,7 @@
       "poolId": "ijsselmonde",
       "status": "ok",
       "closedDates": [],
-      "checkedAt": "2026-11-27T08:21:24.264Z",
+      "checkedAt": "2026-11-27T18:55:49.102Z",
       "count": 94,
       "message": "Gedateerd bronrooster"
     },
@@ -78,7 +78,7 @@
       "poolId": "oostelijk",
       "status": "ok",
       "closedDates": [],
-      "checkedAt": "2026-11-27T08:21:24.264Z",
+      "checkedAt": "2026-11-27T18:55:49.102Z",
       "count": 50,
       "message": "Standaardweek; uitzonderingen controleren"
     },
@@ -86,7 +86,7 @@
       "poolId": "oostervant",
       "status": "ok",
       "closedDates": [],
-      "checkedAt": "2026-11-27T08:21:24.264Z",
+      "checkedAt": "2026-11-27T18:55:49.102Z",
       "count": 66,
       "message": "Standaardweek; uitzonderingen controleren"
     },
@@ -107,7 +107,7 @@
         "2026-12-05",
         "2026-12-06"
       ],
-      "checkedAt": "2026-11-27T08:21:24.264Z",
+      "checkedAt": "2026-11-27T18:55:49.102Z",
       "count": 0,
       "message": "Sluitingsmeldingen voor 12 dagen in het bronrooster"
     },
@@ -130,7 +130,7 @@
         "2026-12-05",
         "2026-12-06"
       ],
-      "checkedAt": "2026-11-27T08:21:24.264Z",
+      "checkedAt": "2026-11-27T18:55:49.102Z",
       "count": 0,
       "message": "Sluitingsmeldingen voor 14 dagen in het bronrooster"
     },
@@ -138,7 +138,7 @@
       "poolId": "rozenburcht",
       "status": "ok",
       "closedDates": [],
-      "checkedAt": "2026-11-27T08:21:24.264Z",
+      "checkedAt": "2026-11-27T18:55:49.102Z",
       "count": 82,
       "message": "Gedateerd bronrooster"
     },
@@ -146,7 +146,7 @@
       "poolId": "vanmaanen",
       "status": "ok",
       "closedDates": [],
-      "checkedAt": "2026-11-27T08:21:24.264Z",
+      "checkedAt": "2026-11-27T18:55:49.102Z",
       "count": 48,
       "message": "Standaardweek; uitzonderingen controleren"
     },
@@ -154,7 +154,7 @@
       "poolId": "west",
       "status": "ok",
       "closedDates": [],
-      "checkedAt": "2026-11-27T08:21:24.264Z",
+      "checkedAt": "2026-11-27T18:55:49.102Z",
       "count": 76,
       "message": "Gedateerd bronrooster"
     },
@@ -162,7 +162,7 @@
       "poolId": "wilgenring",
       "status": "ok",
       "closedDates": [],
-      "checkedAt": "2026-11-27T08:21:24.264Z",
+      "checkedAt": "2026-11-27T18:55:49.102Z",
       "count": 92,
       "message": "Gedateerd bronrooster"
     },
@@ -170,7 +170,7 @@
       "poolId": "zevenkamp",
       "status": "ok",
       "closedDates": [],
-      "checkedAt": "2026-11-27T08:21:24.264Z",
+      "checkedAt": "2026-11-27T18:55:49.102Z",
       "count": 51,
       "message": "Standaardweek; uitzonderingen controleren"
     },
@@ -178,7 +178,7 @@
       "poolId": "zwemcentrum",
       "status": "ok",
       "closedDates": [],
-      "checkedAt": "2026-11-27T08:21:24.264Z",
+      "checkedAt": "2026-11-27T18:55:49.102Z",
       "count": 113,
       "message": "Gedateerd bronrooster"
     }
