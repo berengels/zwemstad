@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T18:55:49.102Z",
-  "attemptedAt": "2026-11-27T18:55:49.102Z",
+  "generatedAt": "2026-11-28T03:17:46.980Z",
+  "attemptedAt": "2026-11-28T03:17:46.980Z",
   "timezone": "Europe/Amsterdam",
   "registrySource": "https://www.rotterdamzwemt.nl/",
   "sources": [
@@ -16,7 +16,7 @@
       "poolId": "feijenoord",
       "status": "ok",
       "closedDates": [],
-      "checkedAt": "2026-11-27T18:55:49.102Z",
+      "checkedAt": "2026-11-28T03:17:46.980Z",
       "count": 78,
       "message": "Gedateerd bronrooster"
     },
@@ -39,7 +39,7 @@
         "2026-12-05",
         "2026-12-06"
       ],
-      "checkedAt": "2026-11-27T18:55:49.102Z",
+      "checkedAt": "2026-11-28T03:17:46.980Z",
       "count": 0,
       "message": "Sluitingsmeldingen voor 14 dagen in het bronrooster"
     },
@@ -62,7 +62,7 @@
         "2026-12-05",
         "2026-12-06"
       ],
-      "checkedAt": "2026-11-27T18:55:49.102Z",
+      "checkedAt": "2026-11-28T03:17:46.980Z",
       "count": 0,
       "message": "Sluitingsmeldingen voor 14 dagen in het bronrooster"
     },
@@ -70,7 +70,7 @@
       "poolId": "ijsselmonde",
       "status": "ok",
       "closedDates": [],
-      "checkedAt": "2026-11-27T18:55:49.102Z",
+      "checkedAt": "2026-11-28T03:17:46.980Z",
       "count": 94,
       "message": "Gedateerd bronrooster"
     },
@@ -78,7 +78,7 @@
       "poolId": "oostelijk",
       "status": "ok",
       "closedDates": [],
-      "checkedAt": "2026-11-27T18:55:49.102Z",
+      "checkedAt": "2026-11-28T03:17:46.980Z",
       "count": 50,
       "message": "Standaardweek; uitzonderingen controleren"
     },
@@ -86,7 +86,7 @@
       "poolId": "oostervant",
       "status": "ok",
       "closedDates": [],
-      "checkedAt": "2026-11-27T18:55:49.102Z",
+      "checkedAt": "2026-11-28T03:17:46.980Z",
       "count": 66,
       "message": "Standaardweek; uitzonderingen controleren"
     },
@@ -107,7 +107,7 @@
         "2026-12-05",
         "2026-12-06"
       ],
-      "checkedAt": "2026-11-27T18:55:49.102Z",
+      "checkedAt": "2026-11-28T03:17:46.980Z",
       "count": 0,
       "message": "Sluitingsmeldingen voor 12 dagen in het bronrooster"
     },
@@ -130,7 +130,7 @@
         "2026-12-05",
         "2026-12-06"
       ],
-      "checkedAt": "2026-11-27T18:55:49.102Z",
+      "checkedAt": "2026-11-28T03:17:46.980Z",
       "count": 0,
       "message": "Sluitingsmeldingen voor 14 dagen in het bronrooster"
     },
@@ -138,7 +138,7 @@
       "poolId": "rozenburcht",
       "status": "ok",
       "closedDates": [],
-      "checkedAt": "2026-11-27T18:55:49.102Z",
+      "checkedAt": "2026-11-28T03:17:46.980Z",
       "count": 82,
       "message": "Gedateerd bronrooster"
     },
@@ -146,7 +146,7 @@
       "poolId": "vanmaanen",
       "status": "ok",
       "closedDates": [],
-      "checkedAt": "2026-11-27T18:55:49.102Z",
+      "checkedAt": "2026-11-28T03:17:46.980Z",
       "count": 48,
       "message": "Standaardweek; uitzonderingen controleren"
     },
@@ -154,7 +154,7 @@
       "poolId": "west",
       "status": "ok",
       "closedDates": [],
-      "checkedAt": "2026-11-27T18:55:49.102Z",
+      "checkedAt": "2026-11-28T03:17:46.980Z",
       "count": 76,
       "message": "Gedateerd bronrooster"
     },
@@ -162,7 +162,7 @@
       "poolId": "wilgenring",
       "status": "ok",
       "closedDates": [],
-      "checkedAt": "2026-11-27T18:55:49.102Z",
+      "checkedAt": "2026-11-28T03:17:46.980Z",
       "count": 92,
       "message": "Gedateerd bronrooster"
     },
@@ -170,7 +170,7 @@
       "poolId": "zevenkamp",
       "status": "ok",
       "closedDates": [],
-      "checkedAt": "2026-11-27T18:55:49.102Z",
+      "checkedAt": "2026-11-28T03:17:46.980Z",
       "count": 51,
       "message": "Standaardweek; uitzonderingen controleren"
     },
@@ -178,7 +178,7 @@
       "poolId": "zwemcentrum",
       "status": "ok",
       "closedDates": [],
-      "checkedAt": "2026-11-27T18:55:49.102Z",
+      "checkedAt": "2026-11-28T03:17:46.980Z",
       "count": 113,
       "message": "Gedateerd bronrooster"
     }
@@ -2585,18 +2585,6 @@
       "sourceUrl": "https://www.sportbedrijfrotterdam.nl/locatie/sportcentrum-de-rozenburcht"
     },
     {
-      "id": "913f110dcc5c2c5772",
-      "poolId": "vanmaanen",
-      "date": "2026-11-27",
-      "start": "07:00",
-      "end": "08:30",
-      "title": "Banenzwemmen",
-      "bassin": "",
-      "category": "Banenzwemmen",
-      "kind": "weekly",
-      "sourceUrl": "https://vanmaanenbad.sportfondsen.nl/tijden-tarieven/"
-    },
-    {
       "id": "c86c2d90969f645636",
       "poolId": "wilgenring",
       "date": "2026-11-27",
@@ -2607,18 +2595,6 @@
       "category": "Banenzwemmen",
       "kind": "dated",
       "sourceUrl": "https://www.sportbedrijfrotterdam.nl/locatie/sportcentrum-de-wilgenring"
-    },
-    {
-      "id": "7bd2172aed65bab0db",
-      "poolId": "oostelijk",
-      "date": "2026-11-27",
-      "start": "08:00",
-      "end": "09:00",
-      "title": "Banenzwemmen",
-      "bassin": "",
-      "category": "Banenzwemmen",
-      "kind": "weekly",
-      "sourceUrl": "https://oostelijkzwembad.sportfondsen.nl/tijden-tarieven/"
     },
     {
       "id": "15ed28e7f03f2a4f6a",
@@ -2645,30 +2621,6 @@
       "sourceUrl": "https://www.sportbedrijfrotterdam.nl/locatie/sportcentrum-de-rozenburcht"
     },
     {
-      "id": "11901e0464ec17a55e",
-      "poolId": "zevenkamp",
-      "date": "2026-11-27",
-      "start": "09:00",
-      "end": "09:30",
-      "title": "Zwemles voor volwassenen",
-      "bassin": "",
-      "category": "Zwemles",
-      "kind": "weekly",
-      "sourceUrl": "https://zevenkampsering.sportfondsen.nl/tijden-tarieven/"
-    },
-    {
-      "id": "7c96e44eb4fd006729",
-      "poolId": "oostelijk",
-      "date": "2026-11-27",
-      "start": "09:00",
-      "end": "09:45",
-      "title": "60+ Zwemles voor volwassenen",
-      "bassin": "",
-      "category": "Zwemles",
-      "kind": "weekly",
-      "sourceUrl": "https://oostelijkzwembad.sportfondsen.nl/tijden-tarieven/"
-    },
-    {
       "id": "ca645b0d23d01179c2",
       "poolId": "feijenoord",
       "date": "2026-11-27",
@@ -2681,30 +2633,6 @@
       "sourceUrl": "https://www.sportbedrijfrotterdam.nl/locatie/sportcentrum-feijenoord"
     },
     {
-      "id": "3ac307783afc735ebe",
-      "poolId": "zevenkamp",
-      "date": "2026-11-27",
-      "start": "09:30",
-      "end": "10:00",
-      "title": "Peuter zwemles",
-      "bassin": "",
-      "category": "Baby & peuter",
-      "kind": "weekly",
-      "sourceUrl": "https://zevenkampsering.sportfondsen.nl/tijden-tarieven/"
-    },
-    {
-      "id": "a582e08e9ede92f3e8",
-      "poolId": "zevenkamp",
-      "date": "2026-11-27",
-      "start": "09:30",
-      "end": "11:00",
-      "title": "Seniorenzwemmen",
-      "bassin": "",
-      "category": "Overig",
-      "kind": "weekly",
-      "sourceUrl": "https://zevenkampsering.sportfondsen.nl/tijden-tarieven/"
-    },
-    {
       "id": "157c8549da21bdd268",
       "poolId": "rozenburcht",
       "date": "2026-11-27",
@@ -2715,18 +2643,6 @@
       "category": "Zwemles",
       "kind": "dated",
       "sourceUrl": "https://www.sportbedrijfrotterdam.nl/locatie/sportcentrum-de-rozenburcht"
-    },
-    {
-      "id": "2e1dd0ca8df9146af8",
-      "poolId": "vanmaanen",
-      "date": "2026-11-27",
-      "start": "12:00",
-      "end": "16:00",
-      "title": "Banenzwemmen",
-      "bassin": "",
-      "category": "Banenzwemmen",
-      "kind": "weekly",
-      "sourceUrl": "https://vanmaanenbad.sportfondsen.nl/tijden-tarieven/"
     },
     {
       "id": "352fbd7c0de0c4b360",
@@ -2753,30 +2669,6 @@
       "sourceUrl": "https://www.sportbedrijfrotterdam.nl/locatie/sportcentrum-de-wilgenring"
     },
     {
-      "id": "5942357be3c7bb884c",
-      "poolId": "oostervant",
-      "date": "2026-11-27",
-      "start": "12:00",
-      "end": "14:00",
-      "title": "Banenzwemmen",
-      "bassin": "",
-      "category": "Banenzwemmen",
-      "kind": "weekly",
-      "sourceUrl": "https://oostervant.sportfondsen.nl/tijden-tarieven-van-oostervant/"
-    },
-    {
-      "id": "b7a8d407251019aed2",
-      "poolId": "oostelijk",
-      "date": "2026-11-27",
-      "start": "12:00",
-      "end": "13:00",
-      "title": "Banenzwemmen",
-      "bassin": "",
-      "category": "Banenzwemmen",
-      "kind": "weekly",
-      "sourceUrl": "https://oostelijkzwembad.sportfondsen.nl/tijden-tarieven/"
-    },
-    {
       "id": "cda6ccfa64289fe5ab",
       "poolId": "feijenoord",
       "date": "2026-11-27",
@@ -2789,18 +2681,6 @@
       "sourceUrl": "https://www.sportbedrijfrotterdam.nl/locatie/sportcentrum-feijenoord"
     },
     {
-      "id": "e02e13253cfc86eefd",
-      "poolId": "vanmaanen",
-      "date": "2026-11-27",
-      "start": "12:00",
-      "end": "13:00",
-      "title": "Aquavitaal",
-      "bassin": "",
-      "category": "Aquasport",
-      "kind": "weekly",
-      "sourceUrl": "https://vanmaanenbad.sportfondsen.nl/tijden-tarieven/"
-    },
-    {
       "id": "0cc580c053dd78d5b8",
       "poolId": "ijsselmonde",
       "date": "2026-11-27",
@@ -2811,30 +2691,6 @@
       "category": "Banenzwemmen",
       "kind": "dated",
       "sourceUrl": "https://www.sportbedrijfrotterdam.nl/locatie/zwembad-ijsselmonde"
-    },
-    {
-      "id": "fe229f778350615729",
-      "poolId": "oostelijk",
-      "date": "2026-11-27",
-      "start": "13:00",
-      "end": "13:45",
-      "title": "Baby- en peuterzwemmen",
-      "bassin": "",
-      "category": "Baby & peuter",
-      "kind": "weekly",
-      "sourceUrl": "https://oostelijkzwembad.sportfondsen.nl/tijden-tarieven/"
-    },
-    {
-      "id": "ff58a7c1e567712b51",
-      "poolId": "oostelijk",
-      "date": "2026-11-27",
-      "start": "13:00",
-      "end": "13:45",
-      "title": "Zwangerschapszwemmen",
-      "bassin": "",
-      "category": "Overig",
-      "kind": "weekly",
-      "sourceUrl": "https://oostelijkzwembad.sportfondsen.nl/tijden-tarieven/"
     },
     {
       "id": "258b5e5d244c2459cc",
@@ -2873,54 +2729,6 @@
       "sourceUrl": "https://www.sportbedrijfrotterdam.nl/locatie/sportcentrum-feijenoord"
     },
     {
-      "id": "fe615d28508c12e613",
-      "poolId": "vanmaanen",
-      "date": "2026-11-27",
-      "start": "14:00",
-      "end": "15:00",
-      "title": "Baby- en peuterzwemmen",
-      "bassin": "",
-      "category": "Baby & peuter",
-      "kind": "weekly",
-      "sourceUrl": "https://vanmaanenbad.sportfondsen.nl/tijden-tarieven/"
-    },
-    {
-      "id": "5432b38492255c1aaa",
-      "poolId": "oostelijk",
-      "date": "2026-11-27",
-      "start": "14:15",
-      "end": "15:15",
-      "title": "Seniorenfit",
-      "bassin": "",
-      "category": "Overig",
-      "kind": "weekly",
-      "sourceUrl": "https://oostelijkzwembad.sportfondsen.nl/tijden-tarieven/"
-    },
-    {
-      "id": "88a0b0650e374a7f37",
-      "poolId": "zevenkamp",
-      "date": "2026-11-27",
-      "start": "14:30",
-      "end": "15:30",
-      "title": "Zwemmen met reuma",
-      "bassin": "",
-      "category": "Overig",
-      "kind": "weekly",
-      "sourceUrl": "https://zevenkampsering.sportfondsen.nl/tijden-tarieven/"
-    },
-    {
-      "id": "36958c744d61bf09ac",
-      "poolId": "oostervant",
-      "date": "2026-11-27",
-      "start": "15:00",
-      "end": "15:30",
-      "title": "Privé-zwemles",
-      "bassin": "",
-      "category": "Zwemles",
-      "kind": "weekly",
-      "sourceUrl": "https://oostervant.sportfondsen.nl/tijden-tarieven-van-oostervant/"
-    },
-    {
       "id": "cda1ab9fa90475d779",
       "poolId": "wilgenring",
       "date": "2026-11-27",
@@ -2931,18 +2739,6 @@
       "category": "Zwemles",
       "kind": "dated",
       "sourceUrl": "https://www.sportbedrijfrotterdam.nl/locatie/sportcentrum-de-wilgenring"
-    },
-    {
-      "id": "a17f9ac8e18440d287",
-      "poolId": "oostelijk",
-      "date": "2026-11-27",
-      "start": "15:15",
-      "end": "15:45",
-      "title": "Privé-zwemles",
-      "bassin": "",
-      "category": "Zwemles",
-      "kind": "weekly",
-      "sourceUrl": "https://oostelijkzwembad.sportfondsen.nl/tijden-tarieven/"
     },
     {
       "id": "ff9eef200e3fbfd6d9",
@@ -2993,54 +2789,6 @@
       "sourceUrl": "https://www.sportbedrijfrotterdam.nl/locatie/zwemcentrum-rotterdam"
     },
     {
-      "id": "e52fd6ff554d2761dc",
-      "poolId": "zevenkamp",
-      "date": "2026-11-27",
-      "start": "15:45",
-      "end": "19:30",
-      "title": "Zwemles Zwem-ABC",
-      "bassin": "",
-      "category": "Zwemles",
-      "kind": "weekly",
-      "sourceUrl": "https://zevenkampsering.sportfondsen.nl/tijden-tarieven/"
-    },
-    {
-      "id": "72640b8383f8137953",
-      "poolId": "oostervant",
-      "date": "2026-11-27",
-      "start": "16:00",
-      "end": "16:45",
-      "title": "Zwemles zwem-ABC",
-      "bassin": "",
-      "category": "Zwemles",
-      "kind": "weekly",
-      "sourceUrl": "https://oostervant.sportfondsen.nl/tijden-tarieven-van-oostervant/"
-    },
-    {
-      "id": "c534321fe61708f860",
-      "poolId": "vanmaanen",
-      "date": "2026-11-27",
-      "start": "16:00",
-      "end": "16:45",
-      "title": "Zwemles Zwem-ABC",
-      "bassin": "",
-      "category": "Zwemles",
-      "kind": "weekly",
-      "sourceUrl": "https://vanmaanenbad.sportfondsen.nl/tijden-tarieven/"
-    },
-    {
-      "id": "cf3e64324b792e948c",
-      "poolId": "oostelijk",
-      "date": "2026-11-27",
-      "start": "16:00",
-      "end": "16:45",
-      "title": "Zwemles Zwem-ABC",
-      "bassin": "",
-      "category": "Zwemles",
-      "kind": "weekly",
-      "sourceUrl": "https://oostelijkzwembad.sportfondsen.nl/tijden-tarieven/"
-    },
-    {
       "id": "ef70f70c949615a93f",
       "poolId": "wilgenring",
       "date": "2026-11-27",
@@ -3065,90 +2813,6 @@
       "sourceUrl": "https://www.sportbedrijfrotterdam.nl/locatie/zwemcentrum-rotterdam"
     },
     {
-      "id": "15dea17f092855d617",
-      "poolId": "vanmaanen",
-      "date": "2026-11-27",
-      "start": "16:45",
-      "end": "17:30",
-      "title": "Zwemles Zwem-ABC",
-      "bassin": "",
-      "category": "Zwemles",
-      "kind": "weekly",
-      "sourceUrl": "https://vanmaanenbad.sportfondsen.nl/tijden-tarieven/"
-    },
-    {
-      "id": "6d042070d7aec4af32",
-      "poolId": "oostervant",
-      "date": "2026-11-27",
-      "start": "16:45",
-      "end": "17:30",
-      "title": "Zwemles zwem-ABC",
-      "bassin": "",
-      "category": "Zwemles",
-      "kind": "weekly",
-      "sourceUrl": "https://oostervant.sportfondsen.nl/tijden-tarieven-van-oostervant/"
-    },
-    {
-      "id": "ab18040b8457b22c1b",
-      "poolId": "oostelijk",
-      "date": "2026-11-27",
-      "start": "16:45",
-      "end": "17:30",
-      "title": "Zwemles Zwem-ABC",
-      "bassin": "",
-      "category": "Zwemles",
-      "kind": "weekly",
-      "sourceUrl": "https://oostelijkzwembad.sportfondsen.nl/tijden-tarieven/"
-    },
-    {
-      "id": "16cee56666897d682a",
-      "poolId": "oostervant",
-      "date": "2026-11-27",
-      "start": "17:30",
-      "end": "18:15",
-      "title": "Zwemles zwem-ABC",
-      "bassin": "",
-      "category": "Zwemles",
-      "kind": "weekly",
-      "sourceUrl": "https://oostervant.sportfondsen.nl/tijden-tarieven-van-oostervant/"
-    },
-    {
-      "id": "32b3d01ed13c86558a",
-      "poolId": "oostervant",
-      "date": "2026-11-27",
-      "start": "17:30",
-      "end": "18:15",
-      "title": "Zwemvaardigheid",
-      "bassin": "",
-      "category": "Zwemles",
-      "kind": "weekly",
-      "sourceUrl": "https://oostervant.sportfondsen.nl/tijden-tarieven-van-oostervant/"
-    },
-    {
-      "id": "9e8b379fc92712e9f6",
-      "poolId": "oostelijk",
-      "date": "2026-11-27",
-      "start": "17:30",
-      "end": "18:15",
-      "title": "Zwemles Zwem-ABC",
-      "bassin": "",
-      "category": "Zwemles",
-      "kind": "weekly",
-      "sourceUrl": "https://oostelijkzwembad.sportfondsen.nl/tijden-tarieven/"
-    },
-    {
-      "id": "d062ca7dc1079ff69c",
-      "poolId": "oostervant",
-      "date": "2026-11-27",
-      "start": "17:30",
-      "end": "18:15",
-      "title": "Snorkel-les",
-      "bassin": "",
-      "category": "Overig",
-      "kind": "weekly",
-      "sourceUrl": "https://oostervant.sportfondsen.nl/tijden-tarieven-van-oostervant/"
-    },
-    {
       "id": "83bdf1f05ca1ecc158",
       "poolId": "zwemcentrum",
       "date": "2026-11-27",
@@ -3159,30 +2823,6 @@
       "category": "Overig",
       "kind": "dated",
       "sourceUrl": "https://www.sportbedrijfrotterdam.nl/locatie/zwemcentrum-rotterdam"
-    },
-    {
-      "id": "b95511ffde2804931d",
-      "poolId": "oostelijk",
-      "date": "2026-11-27",
-      "start": "18:30",
-      "end": "19:30",
-      "title": "Banenzwemmen",
-      "bassin": "",
-      "category": "Banenzwemmen",
-      "kind": "weekly",
-      "sourceUrl": "https://oostelijkzwembad.sportfondsen.nl/tijden-tarieven/"
-    },
-    {
-      "id": "098d15a1e9727cc0ab",
-      "poolId": "zevenkamp",
-      "date": "2026-11-27",
-      "start": "18:45",
-      "end": "19:30",
-      "title": "Zwemvaardigheid",
-      "bassin": "",
-      "category": "Zwemles",
-      "kind": "weekly",
-      "sourceUrl": "https://zevenkampsering.sportfondsen.nl/tijden-tarieven/"
     },
     {
       "id": "32a0844724b665155b",
@@ -8345,6 +7985,18 @@
       "sourceUrl": "https://www.sportbedrijfrotterdam.nl/locatie/sportcentrum-de-rozenburcht"
     },
     {
+      "id": "3720e008ac7bd2b80f",
+      "poolId": "vanmaanen",
+      "date": "2026-12-04",
+      "start": "07:00",
+      "end": "08:30",
+      "title": "Banenzwemmen",
+      "bassin": "",
+      "category": "Banenzwemmen",
+      "kind": "weekly",
+      "sourceUrl": "https://vanmaanenbad.sportfondsen.nl/tijden-tarieven/"
+    },
+    {
       "id": "5313335046583c78fd",
       "poolId": "wilgenring",
       "date": "2026-12-04",
@@ -8367,6 +8019,18 @@
       "category": "Banenzwemmen",
       "kind": "dated",
       "sourceUrl": "https://www.sportbedrijfrotterdam.nl/locatie/zwemcentrum-rotterdam"
+    },
+    {
+      "id": "4de73e5dd924a9fd58",
+      "poolId": "oostelijk",
+      "date": "2026-12-04",
+      "start": "08:00",
+      "end": "09:00",
+      "title": "Banenzwemmen",
+      "bassin": "",
+      "category": "Banenzwemmen",
+      "kind": "weekly",
+      "sourceUrl": "https://oostelijkzwembad.sportfondsen.nl/tijden-tarieven/"
     },
     {
       "id": "609b160f63b339c940",
@@ -8393,6 +8057,30 @@
       "sourceUrl": "https://www.sportbedrijfrotterdam.nl/locatie/zwembad-ijsselmonde"
     },
     {
+      "id": "9d7a27e46e98f0c89c",
+      "poolId": "oostelijk",
+      "date": "2026-12-04",
+      "start": "09:00",
+      "end": "09:45",
+      "title": "60+ Zwemles voor volwassenen",
+      "bassin": "",
+      "category": "Zwemles",
+      "kind": "weekly",
+      "sourceUrl": "https://oostelijkzwembad.sportfondsen.nl/tijden-tarieven/"
+    },
+    {
+      "id": "ad1a7b23d8f6a36ab4",
+      "poolId": "zevenkamp",
+      "date": "2026-12-04",
+      "start": "09:00",
+      "end": "09:30",
+      "title": "Zwemles voor volwassenen",
+      "bassin": "",
+      "category": "Zwemles",
+      "kind": "weekly",
+      "sourceUrl": "https://zevenkampsering.sportfondsen.nl/tijden-tarieven/"
+    },
+    {
       "id": "f7aed7c5c3a40b84b1",
       "poolId": "feijenoord",
       "date": "2026-12-04",
@@ -8403,6 +8091,30 @@
       "category": "Banenzwemmen",
       "kind": "dated",
       "sourceUrl": "https://www.sportbedrijfrotterdam.nl/locatie/sportcentrum-feijenoord"
+    },
+    {
+      "id": "4b2fd5943bcff4ca54",
+      "poolId": "zevenkamp",
+      "date": "2026-12-04",
+      "start": "09:30",
+      "end": "10:00",
+      "title": "Peuter zwemles",
+      "bassin": "",
+      "category": "Baby & peuter",
+      "kind": "weekly",
+      "sourceUrl": "https://zevenkampsering.sportfondsen.nl/tijden-tarieven/"
+    },
+    {
+      "id": "b189e51e398c3fc501",
+      "poolId": "zevenkamp",
+      "date": "2026-12-04",
+      "start": "09:30",
+      "end": "11:00",
+      "title": "Seniorenzwemmen",
+      "bassin": "",
+      "category": "Overig",
+      "kind": "weekly",
+      "sourceUrl": "https://zevenkampsering.sportfondsen.nl/tijden-tarieven/"
     },
     {
       "id": "e6c53b485d9865529b",
@@ -8429,6 +8141,18 @@
       "sourceUrl": "https://www.sportbedrijfrotterdam.nl/locatie/sportcentrum-west"
     },
     {
+      "id": "46d624c31e5c207562",
+      "poolId": "oostelijk",
+      "date": "2026-12-04",
+      "start": "12:00",
+      "end": "13:00",
+      "title": "Banenzwemmen",
+      "bassin": "",
+      "category": "Banenzwemmen",
+      "kind": "weekly",
+      "sourceUrl": "https://oostelijkzwembad.sportfondsen.nl/tijden-tarieven/"
+    },
+    {
       "id": "4edf855e3d901eff61",
       "poolId": "feijenoord",
       "date": "2026-12-04",
@@ -8439,6 +8163,18 @@
       "category": "Banenzwemmen",
       "kind": "dated",
       "sourceUrl": "https://www.sportbedrijfrotterdam.nl/locatie/sportcentrum-feijenoord"
+    },
+    {
+      "id": "51e4f0c8979e776b88",
+      "poolId": "vanmaanen",
+      "date": "2026-12-04",
+      "start": "12:00",
+      "end": "13:00",
+      "title": "Aquavitaal",
+      "bassin": "",
+      "category": "Aquasport",
+      "kind": "weekly",
+      "sourceUrl": "https://vanmaanenbad.sportfondsen.nl/tijden-tarieven/"
     },
     {
       "id": "5be068dd7d4dd1c939",
@@ -8453,6 +8189,30 @@
       "sourceUrl": "https://www.sportbedrijfrotterdam.nl/locatie/sportcentrum-de-wilgenring"
     },
     {
+      "id": "68531e7c3d45d2778c",
+      "poolId": "oostervant",
+      "date": "2026-12-04",
+      "start": "12:00",
+      "end": "14:00",
+      "title": "Banenzwemmen",
+      "bassin": "",
+      "category": "Banenzwemmen",
+      "kind": "weekly",
+      "sourceUrl": "https://oostervant.sportfondsen.nl/tijden-tarieven-van-oostervant/"
+    },
+    {
+      "id": "e046c25f69cd423720",
+      "poolId": "vanmaanen",
+      "date": "2026-12-04",
+      "start": "12:00",
+      "end": "16:00",
+      "title": "Banenzwemmen",
+      "bassin": "",
+      "category": "Banenzwemmen",
+      "kind": "weekly",
+      "sourceUrl": "https://vanmaanenbad.sportfondsen.nl/tijden-tarieven/"
+    },
+    {
       "id": "ec5f34f86dbbfb06bb",
       "poolId": "ijsselmonde",
       "date": "2026-12-04",
@@ -8463,6 +8223,30 @@
       "category": "Banenzwemmen",
       "kind": "dated",
       "sourceUrl": "https://www.sportbedrijfrotterdam.nl/locatie/zwembad-ijsselmonde"
+    },
+    {
+      "id": "cb48849231db0889f6",
+      "poolId": "oostelijk",
+      "date": "2026-12-04",
+      "start": "13:00",
+      "end": "13:45",
+      "title": "Baby- en peuterzwemmen",
+      "bassin": "",
+      "category": "Baby & peuter",
+      "kind": "weekly",
+      "sourceUrl": "https://oostelijkzwembad.sportfondsen.nl/tijden-tarieven/"
+    },
+    {
+      "id": "e3611b430aa6cf3af4",
+      "poolId": "oostelijk",
+      "date": "2026-12-04",
+      "start": "13:00",
+      "end": "13:45",
+      "title": "Zwangerschapszwemmen",
+      "bassin": "",
+      "category": "Overig",
+      "kind": "weekly",
+      "sourceUrl": "https://oostelijkzwembad.sportfondsen.nl/tijden-tarieven/"
     },
     {
       "id": "6abdc244859f97d899",
@@ -8489,6 +8273,18 @@
       "sourceUrl": "https://www.sportbedrijfrotterdam.nl/locatie/sportcentrum-feijenoord"
     },
     {
+      "id": "4c4632f82369c0b6b5",
+      "poolId": "vanmaanen",
+      "date": "2026-12-04",
+      "start": "14:00",
+      "end": "15:00",
+      "title": "Baby- en peuterzwemmen",
+      "bassin": "",
+      "category": "Baby & peuter",
+      "kind": "weekly",
+      "sourceUrl": "https://vanmaanenbad.sportfondsen.nl/tijden-tarieven/"
+    },
+    {
       "id": "85f6b1ced027e22131",
       "poolId": "zwemcentrum",
       "date": "2026-12-04",
@@ -8501,6 +8297,30 @@
       "sourceUrl": "https://www.sportbedrijfrotterdam.nl/locatie/zwemcentrum-rotterdam"
     },
     {
+      "id": "e279b185c38430e6ed",
+      "poolId": "oostelijk",
+      "date": "2026-12-04",
+      "start": "14:15",
+      "end": "15:15",
+      "title": "Seniorenfit",
+      "bassin": "",
+      "category": "Overig",
+      "kind": "weekly",
+      "sourceUrl": "https://oostelijkzwembad.sportfondsen.nl/tijden-tarieven/"
+    },
+    {
+      "id": "26a1c05ae1b48c0e89",
+      "poolId": "zevenkamp",
+      "date": "2026-12-04",
+      "start": "14:30",
+      "end": "15:30",
+      "title": "Zwemmen met reuma",
+      "bassin": "",
+      "category": "Overig",
+      "kind": "weekly",
+      "sourceUrl": "https://zevenkampsering.sportfondsen.nl/tijden-tarieven/"
+    },
+    {
       "id": "6ac9610e7b53ba9d2e",
       "poolId": "wilgenring",
       "date": "2026-12-04",
@@ -8511,6 +8331,30 @@
       "category": "Zwemles",
       "kind": "dated",
       "sourceUrl": "https://www.sportbedrijfrotterdam.nl/locatie/sportcentrum-de-wilgenring"
+    },
+    {
+      "id": "8112ce559befceb796",
+      "poolId": "oostervant",
+      "date": "2026-12-04",
+      "start": "15:00",
+      "end": "15:30",
+      "title": "Privé-zwemles",
+      "bassin": "",
+      "category": "Zwemles",
+      "kind": "weekly",
+      "sourceUrl": "https://oostervant.sportfondsen.nl/tijden-tarieven-van-oostervant/"
+    },
+    {
+      "id": "66a41b02cb3eebbd6a",
+      "poolId": "oostelijk",
+      "date": "2026-12-04",
+      "start": "15:15",
+      "end": "15:45",
+      "title": "Privé-zwemles",
+      "bassin": "",
+      "category": "Zwemles",
+      "kind": "weekly",
+      "sourceUrl": "https://oostelijkzwembad.sportfondsen.nl/tijden-tarieven/"
     },
     {
       "id": "7f5499a02fa55dc01b",
@@ -8537,6 +8381,18 @@
       "sourceUrl": "https://www.sportbedrijfrotterdam.nl/locatie/zwemcentrum-rotterdam"
     },
     {
+      "id": "25e6c1051f75fd79ec",
+      "poolId": "zevenkamp",
+      "date": "2026-12-04",
+      "start": "15:45",
+      "end": "19:30",
+      "title": "Zwemles Zwem-ABC",
+      "bassin": "",
+      "category": "Zwemles",
+      "kind": "weekly",
+      "sourceUrl": "https://zevenkampsering.sportfondsen.nl/tijden-tarieven/"
+    },
+    {
       "id": "4606a6a7c0db0caae6",
       "poolId": "feijenoord",
       "date": "2026-12-04",
@@ -8561,6 +8417,30 @@
       "sourceUrl": "https://www.sportbedrijfrotterdam.nl/locatie/zwemcentrum-rotterdam"
     },
     {
+      "id": "28e0a0581c60da6bfe",
+      "poolId": "oostervant",
+      "date": "2026-12-04",
+      "start": "16:00",
+      "end": "16:45",
+      "title": "Zwemles zwem-ABC",
+      "bassin": "",
+      "category": "Zwemles",
+      "kind": "weekly",
+      "sourceUrl": "https://oostervant.sportfondsen.nl/tijden-tarieven-van-oostervant/"
+    },
+    {
+      "id": "2b1115808c7310da60",
+      "poolId": "vanmaanen",
+      "date": "2026-12-04",
+      "start": "16:00",
+      "end": "16:45",
+      "title": "Zwemles Zwem-ABC",
+      "bassin": "",
+      "category": "Zwemles",
+      "kind": "weekly",
+      "sourceUrl": "https://vanmaanenbad.sportfondsen.nl/tijden-tarieven/"
+    },
+    {
       "id": "c019c5380cb5012346",
       "poolId": "wilgenring",
       "date": "2026-12-04",
@@ -8571,6 +8451,126 @@
       "category": "Zwemles",
       "kind": "dated",
       "sourceUrl": "https://www.sportbedrijfrotterdam.nl/locatie/sportcentrum-de-wilgenring"
+    },
+    {
+      "id": "d94ba923f79e0064df",
+      "poolId": "oostelijk",
+      "date": "2026-12-04",
+      "start": "16:00",
+      "end": "16:45",
+      "title": "Zwemles Zwem-ABC",
+      "bassin": "",
+      "category": "Zwemles",
+      "kind": "weekly",
+      "sourceUrl": "https://oostelijkzwembad.sportfondsen.nl/tijden-tarieven/"
+    },
+    {
+      "id": "078989f027bfca0c1b",
+      "poolId": "oostelijk",
+      "date": "2026-12-04",
+      "start": "16:45",
+      "end": "17:30",
+      "title": "Zwemles Zwem-ABC",
+      "bassin": "",
+      "category": "Zwemles",
+      "kind": "weekly",
+      "sourceUrl": "https://oostelijkzwembad.sportfondsen.nl/tijden-tarieven/"
+    },
+    {
+      "id": "93d845a39231033f6f",
+      "poolId": "oostervant",
+      "date": "2026-12-04",
+      "start": "16:45",
+      "end": "17:30",
+      "title": "Zwemles zwem-ABC",
+      "bassin": "",
+      "category": "Zwemles",
+      "kind": "weekly",
+      "sourceUrl": "https://oostervant.sportfondsen.nl/tijden-tarieven-van-oostervant/"
+    },
+    {
+      "id": "b5fd184bdf1df24210",
+      "poolId": "vanmaanen",
+      "date": "2026-12-04",
+      "start": "16:45",
+      "end": "17:30",
+      "title": "Zwemles Zwem-ABC",
+      "bassin": "",
+      "category": "Zwemles",
+      "kind": "weekly",
+      "sourceUrl": "https://vanmaanenbad.sportfondsen.nl/tijden-tarieven/"
+    },
+    {
+      "id": "5194c2dfb49cf1371a",
+      "poolId": "oostelijk",
+      "date": "2026-12-04",
+      "start": "17:30",
+      "end": "18:15",
+      "title": "Zwemles Zwem-ABC",
+      "bassin": "",
+      "category": "Zwemles",
+      "kind": "weekly",
+      "sourceUrl": "https://oostelijkzwembad.sportfondsen.nl/tijden-tarieven/"
+    },
+    {
+      "id": "a765a750b449ba689d",
+      "poolId": "oostervant",
+      "date": "2026-12-04",
+      "start": "17:30",
+      "end": "18:15",
+      "title": "Snorkel-les",
+      "bassin": "",
+      "category": "Overig",
+      "kind": "weekly",
+      "sourceUrl": "https://oostervant.sportfondsen.nl/tijden-tarieven-van-oostervant/"
+    },
+    {
+      "id": "b715f7de37cde3d1eb",
+      "poolId": "oostervant",
+      "date": "2026-12-04",
+      "start": "17:30",
+      "end": "18:15",
+      "title": "Zwemles zwem-ABC",
+      "bassin": "",
+      "category": "Zwemles",
+      "kind": "weekly",
+      "sourceUrl": "https://oostervant.sportfondsen.nl/tijden-tarieven-van-oostervant/"
+    },
+    {
+      "id": "eee25906b14d6efbfe",
+      "poolId": "oostervant",
+      "date": "2026-12-04",
+      "start": "17:30",
+      "end": "18:15",
+      "title": "Zwemvaardigheid",
+      "bassin": "",
+      "category": "Zwemles",
+      "kind": "weekly",
+      "sourceUrl": "https://oostervant.sportfondsen.nl/tijden-tarieven-van-oostervant/"
+    },
+    {
+      "id": "cb9f389ab062d011fb",
+      "poolId": "oostelijk",
+      "date": "2026-12-04",
+      "start": "18:30",
+      "end": "19:30",
+      "title": "Banenzwemmen",
+      "bassin": "",
+      "category": "Banenzwemmen",
+      "kind": "weekly",
+      "sourceUrl": "https://oostelijkzwembad.sportfondsen.nl/tijden-tarieven/"
+    },
+    {
+      "id": "bfa704350f66d50204",
+      "poolId": "zevenkamp",
+      "date": "2026-12-04",
+      "start": "18:45",
+      "end": "19:30",
+      "title": "Zwemvaardigheid",
+      "bassin": "",
+      "category": "Zwemles",
+      "kind": "weekly",
+      "sourceUrl": "https://zevenkampsering.sportfondsen.nl/tijden-tarieven/"
     },
     {
       "id": "88736ff8441863497d",
